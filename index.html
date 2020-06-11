@@ -5,12 +5,6 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <!--meta data for sharing links on Facebook-->
-    <!-- <meta property="og:title" content="The major cities in Oregon"/>
-    <meta property="og:url" content="http://geoviz.ceoas.oregonstate.edu/storymap/examples/2.5/video.html"/>
-    <meta property="og:description" content="This is an example of a storymap."/>
-    <meta property="og:image" content="../../img/social.png"/> -->
-
     <!--add required stylesheets-->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
     <!--leaflet css-->
@@ -200,7 +194,7 @@
                     <p>The chart data was collected from <a href="https://www.zillow.com/seattle-wa/home-values/was">Zillow</a>.</p>
                     <p>Housing information was collected from Redfin.
                     <p>The information about MHA was collected from Wikipedia, <a href="https://www.seattle.gov/hala/about/mandatory-housing-affordability-(mha)">Seattle.gov</a>,
-                      <a href="http://data-seattlecitygis.opendata.arcgis.com/datasets/mandatory-housing-affordability-mha-zones?geometry=-122.664%2C47.575%2C-122.011%2C47.656">Seattle GeoData</a>.</p>
+                      and <a href="http://data-seattlecitygis.opendata.arcgis.com/datasets/mandatory-housing-affordability-mha-zones?geometry=-122.664%2C47.575%2C-122.011%2C47.656">Seattle GeoData</a>.</p>
                     <p>The information about Link light rail was collected from Wikipedia.</p>
                     <p>Tu, J., (2015). Seattle-area home-price gains race ahead of national rate. The Seattle Times.</p>
                     <p>Tan, R., He, Q., Zhou, K., Xie, P., (2019). The effect of new metro stations on local land use and housing prices:
@@ -258,11 +252,6 @@
             }),
         },
 
-        satellite: {
-            layer: L.tileLayer('https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token=pk.eyJ1IjoiamFrb2J6aGFvIiwiYSI6ImNpcms2YWsyMzAwMmtmbG5icTFxZ3ZkdncifQ.P9MBej1xacybKcDN_jehvw', {
-                id: 'mapbox.satellite'
-            })
-        },
         cartodb_light: {layer: L.tileLayer('http://cartodb-basemaps-{s}.global.ssl.fastly.net/light_all/{z}/{x}/{y}.png')}
     };
 
