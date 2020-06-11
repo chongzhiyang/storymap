@@ -27,5 +27,5 @@ This storymap talks about the rapid growth of home prices in Seattle over the pa
 * Github
 * ESRI basemap
 
-### Special Thanks
+### Acknowledgment
 Thank you Professor Bo Zhao (Professor of GEOGRAPHY 458: Advanced Digital Geographies , University of Washington) providing the storymap template.
