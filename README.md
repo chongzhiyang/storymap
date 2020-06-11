@@ -1,5 +1,7 @@
 # Seattle Home Prices
 
+[Link to the storymap](https://chongzhiyang.github.io/storymap/)
+
 ### Introduction
 This storymap talks about the rapid growth of home prices in Seattle over the past few years. Increasing home prices has a huge impact on the housing affordability of residents in Seattle. Moreover, lots of low-income families struggle to find a house with a reasonable rent that they can afford. Then, families have fewer budgets for foods, transportation, entertainment, and other things. Therefore, affordable housing is an important issue that we should care about.
 
