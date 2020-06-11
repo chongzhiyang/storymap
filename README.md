@@ -14,7 +14,7 @@ This storymap talks about the rapid growth of home prices in Seattle over the pa
 * [Seattle Geodata](http://data-seattlecitygis.opendata.arcgis.com/datasets/mandatory-housing-affordability-mha-zones?geometry=-122.664%2C47.575%2C-122.011%2C47.656)
 * [Seattle.gov](https://www.seattle.gov/hala/about/mandatory-housing-affordability-(mha))
 * [Zillow](https://www.zillow.com/seattle-wa/home-values/was)
-* Redfin
+* [Redfin](https://www.redfin.com/city/16163/WA/Seattle)
 * [Youtube](https://www.youtube.com/watch?v=2sInnVwH_fM)
 * Seattletimes
 
@@ -23,7 +23,7 @@ This storymap talks about the rapid growth of home prices in Seattle over the pa
 * Boostrap
 * Google charts
 * Github
-* ESRI basemap 
+* ESRI basemap
 
 ### Special Thanks
 Thank you Professor Bo Zhao (Professor of GEOGRAPHY 458: Advanced Digital Geographies , University of Washington) providing the storymap template.
