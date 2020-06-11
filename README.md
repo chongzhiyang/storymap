@@ -8,7 +8,7 @@ This storymap talks about the rapid growth of home prices in Seattle over the pa
 ### Goals
 * Explaning the relationship between the expansion of light rail system and the growth of home prices.
 * Showing the changes of home prices over the past 10 years.
-* Showing the home prices in the market nowadays.
+* Showing the home prices in the market in June 2020.
 * The housing progrom from Seattle government to help low-income families.
 
 ### Data Sources
